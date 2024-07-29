@@ -7,7 +7,7 @@
 - 👀 **Interests**: Coding
 - 🌱 **Currently Working With**: Laravel (PHP Framework)
 - 📚 **Learning**: React.js
-- 🎓 **Education**:
+- 🎓 **Education**: 
   - **Current Student**: FSC, final year
   - **High School**: Bright Career School
     - Matric Percentage: 80%
