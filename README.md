@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @anasrehan
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Laravel(PHP FrameWork)
-- 💞️ I’m looking to collaborate on exciting web development projects.
-- 📫 How to reach me: anasrehan921@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I aspire to become a software engineer.
+---
 
-<!---
-anasrehan/anasrehan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there, I'm @anasrehan 👋
+
+---
+
+- 👀 **Interests**: Coding
+- 🌱 **Currently Working With**: Laravel (PHP Framework)
+- 📚 **Learning**: React.js
+- 🎓 **Education**:
+  - **Current Student**: FSC, final year
+  - **High School**: Bright Career School
+    - Matric Percentage: 80%
+    - Grade 9 Percentage: 86%
+- 💼 **Looking to Collaborate On**: Exciting web development projects
+- 📫 **Contact Me**: anasrehan921@gmail.com
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun Fact**: I aspire to become a software engineer
+
+---
+
+Feel free to connect with me for any collaboration or just to share knowledge. Happy coding!
