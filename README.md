@@ -5,8 +5,8 @@
 ---
 
 - 👀 **Interests**: Coding
-- 🌱 **Currently Working With**: Laravel (PHP Framework)
-- 📚 **Learning**: React.js
+- 🌱 **Currently Working With**: Laravel (PHP Framework),React-Js
+- 📚 **Learning**: C#
 - 🎓 **Education**: 
   - **Current Student**: FSC, final year
   - **High School**: Bright Career School
